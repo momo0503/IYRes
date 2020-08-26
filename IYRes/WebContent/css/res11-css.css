@@ -39,14 +39,25 @@ a {
 
 /*-------------------초기화-------------------------------------------------*/
 
+.body-empty{
+	margin-left:1%;
+	margin-bottom:1%;
+	font:bold;
+	font-size:40px;
+}
 
+.reservation-contents{
+	text-align:center;
+	
+}
 
+#reservation-conts{
+	width:90%;
+	height:600px;
+	border-top:1px solid black;
+	border-bottom:1px solid black;
 
-
-
-
-
-
+}
 
 
 
