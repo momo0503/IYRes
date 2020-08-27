@@ -53,6 +53,22 @@
 									<span class="theater-grade">12</span> <span class="text">다만
 										탁에서 구하소서</span>
 								</button></li>
+								<li><button class="resbtn">
+									<span class="theater-grade">12</span> <span class="text">다만
+										탁에서 구하소서</span>
+								</button></li>
+								<li><button class="resbtn">
+									<span class="theater-grade">12</span> <span class="text">다만
+										탁에서 구하소서</span>
+								</button></li>
+								<li><button class="resbtn">
+									<span class="theater-grade">12</span> <span class="text">다만
+										탁에서 구하소서</span>
+								</button></li>
+								<li><button class="resbtn">
+									<span class="theater-grade">12</span> <span class="text">다만
+										탁에서 구하소서</span>
+								</button></li>
 						</ul>
 					</div>
 				</div>

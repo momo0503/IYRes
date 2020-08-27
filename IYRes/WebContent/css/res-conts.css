@@ -52,14 +52,16 @@ p{
 .quick-reservation {
 	text-align: center;
 }
+/*빠른예약 전체 중앙정렬*/
 
 .location-choice {
 	overflow-x: hidden;
-	overflow-y: auto; width : 25%;
+	overflow-y: auto; 
+	width : 25%;
 	height: 500px;
 	display: inline-block;
 	border: 0.5px dotted black;
-	width: 25%;
+	
 }
 
 .theater-choice {
@@ -84,4 +86,23 @@ p{
 	min-height:28px;
 	display:block;
 	width:100%;
+	background-color:white;
+	border:none;
+	font-size:16px;
+	cursor:pointer;
+}
+
+.resbtn:hover{
+background:gray;	
+color:black;
+}
+
+.theater-grade{
+	color:red;
+}
+
+
+.text{
+	color:black;
+	
 }

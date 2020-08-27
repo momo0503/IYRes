@@ -9,43 +9,6 @@
 <link rel="stylesheet" type="text/css" href="../css/main.css" />
 </head>
 <body>
-	<!-- header  -->
-	<div class="top-gnb-wrap">
-
-  <div class="top-login">
-   <div class="top-login-right">
-    <a href="#">로그인</a>
-    <a href="#">마이페이지</a>
-    </div>
-  </div>
-  <script>
-    $(window).on('scroll',function(){
-       var stop=$(this).scrollTop();
-       if(stop>200){
-          document.getElementsByClassName("top-login").style.display="block";
-       }else{
-          document.getElementsByClassName("top-login").style.display="none";
-       }
-    })
-  </script>
-
-  <header class="top-menu">
-    <div class="top-gnb-left">
-      <a href="#"><img src=""/></a>
-    </div>
-    <div class="top-menu-center">
-      <a href="#">연극찾기</a>
-      <a href="#">예매하기</a>
-      <a href="#">게시판</a>
-      <a href="#">극장 찾기</a>
-    </div>
-    
-    <!-- <div class="top-menu-right">
-      <a href="#">MY티켓</a>
-    </div> -->
-  </header>
-
-</div><!-- header -->
 
 	<div class="body-wrap">
 
@@ -89,26 +52,6 @@
 
 	</div>
 
-	<!-- footer -->
-	<footer>
-  <div class="bot-cont">
-  
-    <div class="bot-logo">
-      <a href="#">
-        <img src="../img/logo.jpg"/>
-      </a>
-    </div>
-    <div class="bot-txt">
-      <p>TEAM  Hye Ah</p>
-      <p>PM : 윤혜진 </p>
-      <p>M : 김영모 신지환 신효창 이건희</p>
-      <p class="bot-cr"> Copyright Team.Hye-Ah All Rights Reserved.</p>
-    </div>
-    <div class="bot-api">
-      <img src="../img/utility_kams.png"/>
-      <p> (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)</p>
-    </div>
-  </div>
-</footer>
+
 </body>
 </html>

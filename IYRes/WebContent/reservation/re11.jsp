@@ -15,7 +15,7 @@
 <jsp:include page="../include/header.jsp"/>
 
 
-<div class="res-container">
+<div class="res11-container">
 <div class="body-empty">빠른 예매</div>
 <!-- reservation-contents-->
 
@@ -34,7 +34,7 @@
 <!-- /reservation-contents -->
 
 </div>
-<!-- /res-container -->
+<!-- /res11-container -->
 <jsp:include page="../include/footer.jsp"/>
 </div>
 
