@@ -19,31 +19,45 @@
 
 		
 			<div class="ticket-info1">
-				잔여좌석/총좌석 매수 : <span id="mes">152/323</span><br> 예매 매수 선택 : <span
-					id="mes2"><select>
+				<div class="lefted-seat">잔여좌석/총좌석 매수 : 152/323</div>
+				
+				<div class="ticket-num">
+				<p class="ticket-num-conts">예매 매수 선택 : 
+				
+				<select>
 						<option class="mes03" selected>1매</option>
 						<option class="mes03">2매</option>
-						<option class="mes03">2매</option>
+						<option class="mes03">3매</option>
 						<option class="mes03">4매</option>
-				</select></span> <img class="mySlides" src="../img/event_20.jpg" />
-
-			</div>
-
-		
-
-
-		
-			<div class="ticket-info2">
-			연극지역 : <br><br>
-		날짜 :  2020-08-18<br><br>
-		시간 :    17:30 ~ 18:45<br><br>
-		1매가격 : 10000 <br><br>
-		매수 :  1매<br><br><br>
-		최종 결제 금액 : 10000<br><br>
+				</select>
+				
+				</p>
 				</div>
+			</div>
+	<!-- /ticket-info1 -->
+
+			<div class="ticket-info2">
+				<div class="imgslide">
 	
+				 <img class="mySlides" src="../img/event_20.jpg" />
+				</div>
+			</div>
+		<!-- /ticket-info2 -->
+		
+		
+			<div class="ticket-info3">
+			연극지역 : 
+		날짜 :  2020-08-18
+		시간 :    17:30 ~ 18:45
+		1매가격 : 10000 
+		매수 :  1매
+		최종 결제 금액 : 10000
+				</div>
+	<!-- /ticket-info3 -->
 
 	</div>
 	<!-- /quick-reservation-checkinfo -->
+
+	
 </body>
 </html>

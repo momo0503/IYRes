@@ -38,44 +38,60 @@ a {
 }
 
 /*-------------------초기화-------------------------------------------------*/
+
+
 .quick-reservation-checkinfo {
 	text-align: center;
+	
 	
 }
 
 .ticket-info1{
 	
-	width : 25%;
-	height: 500px;
+	width : 20%;
+	height: 200px;
 	display: inline-block;
 	border: 0.5px dotted black;
+	position:absolute;
+	top:50px;
+	left:100px;
+
 	
 }
 
 .ticket-info2{
-
-	width : 65%;
-	height: 500px;
-	display: inline-block;
+	width :25%;
+	height:300px;
+	display:inline;
 	border: 0.5px dotted black;
+	position:absolute;
+	top:260px;
+	left:70px;
 	
 }
 
-.ticket-info1 .mySlides{
-	width:200px;
-	height:300px; 
+
+.ticket-info3{
+
+	width : 60%;
+	height: 500px;
+	display: inline-block;
+	border: 0.5px dotted black;
+	position:absolute;
+	top:50px;
+	left:500px;
+}
+
+.lefted-seat{
+	margin-bottom:50px;
+	
 }
 
 
-
-
-
-
-
-
-
-
-
+.ticket-info2 .mySlides{
+	width:100%;
+	height:300px; 
+}
 
 
 
